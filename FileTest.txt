@@ -1,1 +1,2 @@
 File Test
+add: Đăng ký thay đổi trong index
